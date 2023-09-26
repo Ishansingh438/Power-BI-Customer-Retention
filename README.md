@@ -1,9 +1,9 @@
 # Power-BI-Customer-Retention
-Created a Power BI dashboard for the retention manager reflecting the KPIs.
+# Created a Power BI dashboard for the retention manager reflecting the KPIs.
 
 ![image](https://github.com/Ishansingh438/Power-BI-Customer-Retention/assets/105629591/0f1b82d5-2036-4897-a7d5-9ef2be068c97)
 
-Table of Contents:
+# Table of Contents:
 
 • Problem Statement
 
@@ -15,7 +15,7 @@ Table of Contents:
 
 • Recommendation
 
-Problem Statement :
+# Problem Statement :
 
 The purpose of this task is to:
 
@@ -32,7 +32,7 @@ The purpose of this task is to:
 Dataset:
 Dataset used for this task was presented by Pwc and customer churn Retention dataset:
 
-Data Preparation:
+# Data Preparation:
 
 • Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
 
@@ -54,7 +54,7 @@ Data Preparation:
 
 • Each of the columns in the table were validated to have the correct data type.
 
-Data Analysis (DAX):
+# Data Analysis (DAX):
 • Measures used in all visualization are:
 
 • Average MonthlyCharges = AVERAGE('01 Churn-Dataset'[MonthlyCharges])
@@ -101,7 +101,7 @@ As shown the data Visualization, It was be deduced that:
 
 • It a lot of customers had an issue with Fiber Optic . Up to 42% of the customers churned were using Fiber Optic as their Internet Services.
 
-Recommendation:
+# Recommendation:
 
  •The Company could try convincing customers to subscribe to One-Year and Two-Year contract. The contract are not favorable to customers as they tend to pay more monthly.
 
